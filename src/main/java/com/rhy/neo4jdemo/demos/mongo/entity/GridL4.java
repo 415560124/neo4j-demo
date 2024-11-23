@@ -1,4 +1,4 @@
-package com.rhy.neo4jdemo.demos.entity;
+package com.rhy.neo4jdemo.demos.mongo.entity;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
